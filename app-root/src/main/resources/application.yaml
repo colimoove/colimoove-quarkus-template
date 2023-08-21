@@ -1,0 +1,9 @@
+quarkus:
+  http:
+    port: 8090
+  smallrye-openapi:
+    info-title: colimoove API
+    info-description: Colimoove quarkus multi-module project
+    info-version: 1.0.1
+    info-contact-email: colimoove.in@gmail.com
+    info-contact-name: COLIMOOVE TECH
